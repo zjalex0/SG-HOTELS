@@ -1,0 +1,35 @@
+{
+    "files.exclude": {
+        "**/node_modules": true,
+        "**package-lock.json": true,
+        "**.md": true,
+        "**.lock": true,
+        // "dist": true,
+        // "src/api": true,
+        // "src/assets": true,
+        // "src/helpers": true,
+        // "src/scss": true,
+        // ".*": true,
+        // ".vscode": false,
+    },
+    "workbench.colorCustomizations": {
+        // "titleBar.activeBackground": "#008cff",
+        // "activityBar.background": "#008cff",
+        // "statusBar.background": "#008cff",
+        // "activityBar.activeBorder": "#0f320e",
+        // "activityBar.foreground": "#e7e7e7",
+        // "activityBar.inactiveForeground": "#e7e7e799",
+        // "activityBarBadge.background": "#0f320e",
+        // "activityBarBadge.foreground": "#e7e7e7",
+        // "titleBar.activeForeground": "#e7e7e7",
+        // "titleBar.inactiveForeground": "#e7e7e799",
+        // "statusBar.foreground": "#e7e7e7"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "workbench.settings.editor": "json",
+}
