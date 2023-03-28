@@ -10,14 +10,6 @@
 
 # Test SG-Hotels
 
-
-# # Template utilizado
-
-* 💪  [CoreUI Pro Bootstrap Admin Template](https://coreui.io/pro/)
-* 💪  [CoreUI Pro Angular Admin Template](https://coreui.io/pro/angular)
-* 💪  [CoreUI Pro React Admin Template](https://coreui.io/pro/react)
-* 💪  [CoreUI Pro Vue Admin Template](https://coreui.io/pro/vue)
-
 ### Instalación
 
 ``` bash
@@ -49,3 +41,6 @@ email: juan.perez@example.com
 pass: 123456789
 ```
 
+### Template utilizado
+
+* 💪  [CoreUI Pro React Admin Template](https://coreui.io/pro/react)
